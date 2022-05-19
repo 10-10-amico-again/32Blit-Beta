@@ -24,9 +24,10 @@ https://github.com/10-10-amico-again/
 
 # INSTALL:
 
-Download [10-10-Amico-Again-BETA-32blit.blit](https://github.com/10-10-amico-again/32blit-beta/raw/main/10-10-Amico-Again-BETA-32blit.blit) above.
+Download the lastest .blit above.
 
-You will need **306 blocks free** on the 32blit to install it, you might need to delete programs installed in the flash (NOT the launcher!).
+The full game (with music) needs **306 blocks free** on the 32blit to install it, you might need to delete programs installed in the flash (NOT the launcher!).
+
 
 
 19MB 17 minutes to copy to SD card via USB cable, run:
