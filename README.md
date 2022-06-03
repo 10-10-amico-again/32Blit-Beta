@@ -5,8 +5,6 @@
 # EXCLUSIVE GAME FOR 32BLIT: 
 A fully featured, retro-inspired handheld dev console with open-source firmware.
 
-VIDEO: https://odysee.com/10-10-Amico-Again:d
-
 [<img src="https://cdn.shopify.com/s/files/1/0174/1800/products/p1002000-edit-2_768x768.jpg?v=1636999472" width="255" />](https://shop.pimoroni.com/products/32blit-dev-kit?variant=32337896865875)
 
 https://shop.pimoroni.com/products/32blit-dev-kit?variant=32337896865875
