@@ -2,25 +2,28 @@
 
 ---
 
-# EXCLUSIVE GAME FOR 32BLIT: 
-A fully featured, retro-inspired handheld dev console with open-source firmware.
 
-[<img src="https://cdn.shopify.com/s/files/1/0174/1800/products/p1002000-edit-2_768x768.jpg?v=1636999472" width="255" />](https://shop.pimoroni.com/products/32blit-dev-kit?variant=32337896865875)
-
-https://shop.pimoroni.com/products/32blit-dev-kit?variant=32337896865875
-
+# CONTENT WARNING:
+     MAJOR SEIZURE AND LANGUAGE WARNING!
 
 # HOMEPAGE: 
 For updates, final build and code release:
 
 https://github.com/10-10-amico-again/
 
-
-# CONTENT WARNING:
-
-     MAJOR SEIZURE AND LANGUAGE WARNING!
+# VIDEO:
+https://odysee.com/10-10-Amico-Again:d
 
 
+# EXCLUSIVE FOR 32BLIT: 
+
+[<img src="https://cdn.shopify.com/s/files/1/0174/1800/products/p1002000-edit-2_768x768.jpg?v=1636999472" width="255" />](https://shop.pimoroni.com/products/32blit-dev-kit?variant=32337896865875) \
+https://shop.pimoroni.com/products/32blit-dev-kit?variant=32337896865875
+
+"A fully featured, retro-inspired handheld [dev console with open-source firmware](https://github.com/32blit/32blit-sdk)." \
+This game is not affiliated or representative of pimoroni or their products.
+
+ 
 # INSTALL:
 
 Download the lastest .blit above.
